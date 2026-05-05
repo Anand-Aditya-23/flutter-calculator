@@ -165,14 +165,6 @@ The `CalculatorLogic` class is a pure Dart class with **zero Flutter dependencie
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: you@example.com
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
